@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\coladeraDeEratostenes\coladeraDeEratostenes\bin\Debug\coladeraDeEratostenes.exe.config
+C:\Users\Hp\source\repos\coladeraDeEratostenes\coladeraDeEratostenes\bin\Debug\coladeraDeEratostenes.exe
+C:\Users\Hp\source\repos\coladeraDeEratostenes\coladeraDeEratostenes\bin\Debug\coladeraDeEratostenes.pdb
+C:\Users\Hp\source\repos\coladeraDeEratostenes\coladeraDeEratostenes\obj\Debug\coladeraDeEratostenes.csprojResolveAssemblyReference.cache
+C:\Users\Hp\source\repos\coladeraDeEratostenes\coladeraDeEratostenes\obj\Debug\coladeraDeEratostenes.Form1.resources
+C:\Users\Hp\source\repos\coladeraDeEratostenes\coladeraDeEratostenes\obj\Debug\coladeraDeEratostenes.Properties.Resources.resources
+C:\Users\Hp\source\repos\coladeraDeEratostenes\coladeraDeEratostenes\obj\Debug\coladeraDeEratostenes.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\coladeraDeEratostenes\coladeraDeEratostenes\obj\Debug\coladeraDeEratostenes.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\coladeraDeEratostenes\coladeraDeEratostenes\obj\Debug\coladeraDeEratostenes.exe
+C:\Users\Hp\source\repos\coladeraDeEratostenes\coladeraDeEratostenes\obj\Debug\coladeraDeEratostenes.pdb
