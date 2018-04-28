@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\pintar\pintar\bin\Debug\pintar.exe.config
+C:\Users\Hp\source\repos\pintar\pintar\bin\Debug\pintar.exe
+C:\Users\Hp\source\repos\pintar\pintar\bin\Debug\pintar.pdb
+C:\Users\Hp\source\repos\pintar\pintar\obj\Debug\pintar.csprojResolveAssemblyReference.cache
+C:\Users\Hp\source\repos\pintar\pintar\obj\Debug\pintar.Form1.resources
+C:\Users\Hp\source\repos\pintar\pintar\obj\Debug\pintar.Properties.Resources.resources
+C:\Users\Hp\source\repos\pintar\pintar\obj\Debug\pintar.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\pintar\pintar\obj\Debug\pintar.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\pintar\pintar\obj\Debug\pintar.exe
+C:\Users\Hp\source\repos\pintar\pintar\obj\Debug\pintar.pdb
