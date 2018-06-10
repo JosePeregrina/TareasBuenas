@@ -1,0 +1,10 @@
+C:\Users\Banan\source\repos\Listas circulares\Listas circulares\bin\Debug\Listas circulares.exe.config
+C:\Users\Banan\source\repos\Listas circulares\Listas circulares\bin\Debug\Listas circulares.exe
+C:\Users\Banan\source\repos\Listas circulares\Listas circulares\bin\Debug\Listas circulares.pdb
+C:\Users\Banan\source\repos\Listas circulares\Listas circulares\obj\Debug\Listas circulares.csprojAssemblyReference.cache
+C:\Users\Banan\source\repos\Listas circulares\Listas circulares\obj\Debug\Listas_circulares.Form1.resources
+C:\Users\Banan\source\repos\Listas circulares\Listas circulares\obj\Debug\Listas_circulares.Properties.Resources.resources
+C:\Users\Banan\source\repos\Listas circulares\Listas circulares\obj\Debug\Listas circulares.csproj.GenerateResource.cache
+C:\Users\Banan\source\repos\Listas circulares\Listas circulares\obj\Debug\Listas circulares.csproj.CoreCompileInputs.cache
+C:\Users\Banan\source\repos\Listas circulares\Listas circulares\obj\Debug\Listas circulares.exe
+C:\Users\Banan\source\repos\Listas circulares\Listas circulares\obj\Debug\Listas circulares.pdb
