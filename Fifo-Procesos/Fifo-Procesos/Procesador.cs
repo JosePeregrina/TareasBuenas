@@ -43,39 +43,6 @@ namespace Fifo_Procesos
                 _inicio.Anterior = null;
             }
         }
-        //public string Procesar()
-        //{
-        //    int ciclosVacio = 0, procesosAtendidos = 0, procesosPendientes = 0, ciclosPendientes = 0;
-        //    for (int x = 0; x < 300; x++)
-        //    {
-        //        int n = random.Next(1, 101);
-        //        if (n <= 35)
-        //        {
-        //            n = .Next(4, 15);
-        //            aux = new Proceso(n);
-        //            agregarFinal(aux);
-        //        }
-        //        if (inicio != null)
-        //        {
-        //            inicio.Ciclos--;// = inicio.Ciclos - 1;
-        //            if (inicio.Ciclos == 0)
-        //            {
-        //                eliminarInicio();
-        //                procesosAtendidos++;
-        //            }
-        //        }
-        //        else ciclosVacio++;
-        //    }
-        //    aux = inicio;
-        //    if (inicio != null)
-        //        while (aux != null)
-        //        {
-        //            procesosPendientes++;
-        //            ciclosPendientes += aux.Ciclos;
-        //            aux = aux.Siguiente;
-        //        }
-        //    return "Ciclos Vacio: " + ciclosVacio + Environment.NewLine + "Procesos Atendidos: " + procesosAtendidos + Environment.NewLine + "Procesos Pendientes: " + procesosPendientes + Environment.NewLine + "Ciclos Pendientes: " + ciclosPendientes;
-        //}
         public string Procesar()
         { int ciclosHechos = 0, ciclosInconclusos = 0 , ciclosVacios = 0;
             for (int i = 0; i < 300; i++)
